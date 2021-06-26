@@ -70,7 +70,8 @@
 --------------------------------------------------------------------
 
 
-[![Hrithik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgsg704&theme=react-dark)](https://github.com/sgsg704/github-readme-activity-graph)
+[![Hrithik'szgithub activity graph](https://activity-graph.herokuapp.com/graph?username=sgsg704&theme=react-dark)](https://github.com/sgsg704/github-readme-activity-graph)
+
 
 
 --------------------------------------------------------------------
