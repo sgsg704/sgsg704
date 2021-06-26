@@ -43,19 +43,15 @@
 
 <h3 align="left">Click on any icon!:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hrithikgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Smeet Mehta" height="30" width="40" /></a>
-<a href="https://instagram.com/hrithikgupta88?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clumsy_panda_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hg2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RA1811003010446" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hrithikgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hrithik Gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/hrithikgupta88?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrithikgupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hg2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RA1811003010761" height="30" width="40" /></a>
 
- 
- 
 </p>
 
 </details>
 
 --------------------------------------------------------------------
-
-
   
  ### What I like in Coding 👨🏻‍💻
 
@@ -67,12 +63,15 @@
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flask.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
    
    
  
 
 --------------------------------------------------------------------
+
+
+[![Hrithik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgsg704&theme=react-dark)](https://github.com/sgsg704/github-readme-activity-graph)
+
 
 --------------------------------------------------------------------
   
@@ -88,4 +87,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@hrithikgupta](https://www.linkedin.com/in/hrithikgupta/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Work Every walking Hour .
--->
+
