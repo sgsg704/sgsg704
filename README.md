@@ -1,4 +1,4 @@
-<h1 align="center">Hi There ,This is Hrithik Gupta👋</h1>
+<h1 align="center">Hola,This is Hrithik Gupta👋</h1>
 <h4 align="center">Switch to Dark Mode for better UI/UX Experience :grin:</h4>
 
 
@@ -14,10 +14,9 @@
 --------------------------------------------------------------------
 
 
-
  :trident:Github Stats:trident: | :octocat:Languages Used:octocat:
 ------------- | -------------
-![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgsg704&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsg704)](https://github.com/anuraghazra/github-readme-stats)
+![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgsg704&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsg704)](https://github.com/sgsg704/github-readme-stats)
 
 
 
@@ -61,7 +60,6 @@
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
-   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flask.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
    
    
